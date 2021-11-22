@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.mateuszlawinski.snake"},{"l":"pl.polsl.mateuszlawinski.snake.controllers"},{"l":"pl.polsl.mateuszlawinski.snake.models"},{"l":"pl.polsl.mateuszlawinski.snake.views"}]
